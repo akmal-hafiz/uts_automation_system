@@ -1,0 +1,2184 @@
+[
+  {
+    "id": "6ae16d28ab885800121522e7",
+    "slug": "driver-rental-motor-untuk-penempatan",
+    "role": "Mekanik Motor",
+    "stats": {
+      "viewCount": 0,
+      "nonCuratedCount": 0,
+      "applicantCount": 0
+    },
+    "employmentTypes": [
+      "fullTime"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-11-09T03:35:33.915Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": {
+      "start": 2700000,
+      "end": 4500000
+    },
+    "candidatePreference": {
+      "lastEducations": [
+        8,
+        0,
+        5,
+        6
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "681cb9448709246917e7f457",
+        "681cfb09fb95b8ee7c5ede3d",
+        "67ef94df8ea92db836893043",
+        "63d2ac892db5900012fb3703",
+        "66b330a26e1f7c0012a70945"
+      ],
+      "gender": "No Preference",
+      "age": {
+        "restriction": false,
+        "min": null,
+        "max": null
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 49183,
+      "name": "Bali"
+    },
+    "companyId": "6ae16939caa63100121637c0",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/6ae163534fb2960014140061/JobPortalCompanyLogo/229d3515-c688-4299-bbb8-d51f3117a0ed.jpg",
+      "name": "PT Leassy Transportasi Indonesia",
+      "sector": "other",
+      "slug": "pt-leassy-transportasi-indonesia",
+      "id": "6ae16939caa63100121637c0",
+      "verified": false
+    },
+    "deletedAt": null,
+    "createdAt": "2026-10-28T03:34:00.771Z",
+    "updatedAt": "2026-11-09T03:35:34.711Z",
+    "updatedAtByEmployer": "2026-11-09T03:35:33.916Z",
+    "latestUpdatedAt": "2026-10-30T07:33:00.828Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": true,
+    "lastActivelyHiringAt": "2026-11-09T04:05:29.879Z"
+  },
+  {
+    "id": "6aeff055b2c3180012ef8d6e",
+    "slug": "it-support-57",
+    "role": "IT Support",
+    "stats": {
+      "viewCount": 84,
+      "nonCuratedCount": 76,
+      "applicantCount": 78
+    },
+    "employmentTypes": [
+      "contract"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-11-08T03:45:25.192Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "lastEducations": [
+        8,
+        5
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "681b23758709246917e65a33",
+        "6298645962a37400158992c9",
+        "67fdc56d203f07b253fef8cf",
+        "6319fd18eaf3ce00136da2c9",
+        "67fde4b55e477923f99ab7b0",
+        "6598d60dac7f7100128be9f2",
+        "681c0452fb95b8ee7c5e5ced",
+        "67edfc1a91c3d600126d6353",
+        "6304602717decd0012b7b320",
+        "65965a59f156e500121cf628"
+      ],
+      "gender": "Male",
+      "age": {
+        "restriction": true,
+        "min": 20,
+        "max": 35
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 272,
+      "name": "Tangerang"
+    },
+    "companyId": "624bacb9c1e6b6001248b37d",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/624fe5a159bce60014f6f1d5/JobPortalCompanyLogo/0f9609d1-9a5f-4724-b104-37309bb477bc.png",
+      "name": "Segari",
+      "sector": "Retail and Grocery",
+      "slug": "segari",
+      "id": "624bacb9c1e6b6001248b37d",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-11-08T03:45:25.207Z",
+    "updatedAt": "2026-11-09T04:49:56.219Z",
+    "updatedAtByEmployer": "2026-11-08T03:45:25.188Z",
+    "latestUpdatedAt": "2026-11-08T03:45:25.200Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T04:36:20.852Z"
+  },
+  {
+    "id": "6aec09ed1e1e8b00128c02af",
+    "slug": "microsoft-engineer-1",
+    "role": "Microsoft Engineer",
+    "stats": {
+      "viewCount": 49,
+      "nonCuratedCount": 4,
+      "applicantCount": 38
+    },
+    "employmentTypes": [
+      "fullTime"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-11-05T04:45:33.890Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "lastEducations": [
+        5,
+        0,
+        6
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "62ee0181f9afa20012d4456e"
+      ],
+      "gender": "No Preference",
+      "age": {
+        "restriction": false,
+        "min": null,
+        "max": null
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 272,
+      "name": "Tangerang"
+    },
+    "companyId": "634243da28c4ce001364b2e5",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/63424166a818920013dc6af9/JobPortalCompanyLogo/a1b65e8a-ab96-4987-80ed-6067efc0f068.jpg",
+      "name": "PT Multipolar Technology",
+      "sector": "Information Technology",
+      "slug": "pt-multipolar-technology",
+      "id": "634243da28c4ce001364b2e5",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-11-05T04:45:33.899Z",
+    "updatedAt": "2026-11-09T04:10:16.311Z",
+    "updatedAtByEmployer": "2026-11-09T04:08:35.681Z",
+    "latestUpdatedAt": "2026-11-05T04:45:33.894Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T04:59:11.386Z"
+  },
+  {
+    "id": "6aebfdeb55c1380013198e9a",
+    "slug": "senior-devops-engineer-10",
+    "role": "Senior DevOps Engineer",
+    "stats": {
+      "viewCount": 59,
+      "nonCuratedCount": 15,
+      "applicantCount": 23
+    },
+    "employmentTypes": [
+      "fullTime"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-11-05T03:54:19.668Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "lastEducations": [
+        6
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "68145cbcc8dcd4c9c4ad949b",
+        "67fa72d15e477923f999c7e9",
+        "681b8799fb95b8ee7c5db89b",
+        "663830b7019c5400121be515",
+        "62a326e162a37400158df2fa"
+      ],
+      "gender": "No Preference",
+      "age": {
+        "restriction": false,
+        "min": null,
+        "max": null
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 157,
+      "name": "Jakarta Pusat"
+    },
+    "companyId": "642d07dd4fb3eb001260f9d2",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/6a6718d9254f340013c3621e/JobPortalCompanyLogo/2808c6e1-e981-4105-8c8d-87a3c61bc7ee.jpg",
+      "name": "SG-EDTS",
+      "sector": "IT Services And IT Consulting",
+      "slug": "sg-edts",
+      "id": "642d07dd4fb3eb001260f9d2",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-11-05T03:54:19.689Z",
+    "updatedAt": "2026-11-09T04:10:16.348Z",
+    "updatedAtByEmployer": "2026-11-09T03:29:17.060Z",
+    "latestUpdatedAt": "2026-11-05T03:54:19.679Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T04:26:19.356Z"
+  },
+  {
+    "id": "6aeb02776153990011bc8592",
+    "slug": "technology-intern-singapore-based",
+    "role": "Technology Intern (Singapore Based)",
+    "stats": {
+      "viewCount": 17,
+      "nonCuratedCount": 40,
+      "applicantCount": 41
+    },
+    "employmentTypes": [
+      "internship"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-11-04T10:01:27.048Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "lastEducations": [
+        0,
+        5,
+        3,
+        4
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "67ef94df8ea92db836893044",
+        "681b4915fb95b8ee7c5d8038",
+        "681b92458709246917e6bfea"
+      ],
+      "gender": "No Preference",
+      "age": {
+        "restriction": false,
+        "min": null,
+        "max": null
+      }
+    },
+    "country": {
+      "id": 199,
+      "name": "Singapore"
+    },
+    "city": {
+      "id": 6299,
+      "name": "Singapore"
+    },
+    "companyId": "62c6ba5a2d53dd0014a4bfb3",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/62c6b8ebfe3ef400148108ae/Others/4fca14eb-3f45-46dc-ad15-01194f170f7e.png",
+      "name": "Kargo Technologies",
+      "sector": "Transport & Logistics",
+      "slug": "kargo-technologies",
+      "id": "62c6ba5a2d53dd0014a4bfb3",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-11-04T10:01:27.063Z",
+    "updatedAt": "2026-11-09T03:44:36.273Z",
+    "updatedAtByEmployer": "2026-11-04T10:01:27.047Z",
+    "latestUpdatedAt": "2026-11-04T10:01:27.056Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-07T23:03:19.877Z"
+  },
+  {
+    "id": "6aeaf645a4b0c80013550078",
+    "slug": "data-quality-assurance",
+    "role": "Data Quality Assurance",
+    "stats": {
+      "viewCount": 44,
+      "nonCuratedCount": 71,
+      "applicantCount": 73
+    },
+    "employmentTypes": [
+      "fullTime"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-11-04T09:25:49.896Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "lastEducations": [
+        5
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "67ef94df8ea92db836893044",
+        "681b92458709246917e6bfea",
+        "681bad57fb95b8ee7c5dcb88",
+        "67f1871c9167f1e4c4f8ac75",
+        "681cb9448709246917e7f457"
+      ],
+      "gender": "No Preference",
+      "age": {
+        "restriction": false,
+        "min": null,
+        "max": null
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 179,
+      "name": "Bandung"
+    },
+    "companyId": "65e959eb33c6a30012e4e1a1",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/65e9595bf584a30013c8dd59/JobPortalCompanyLogo/f939c096-6d93-4c70-9ea4-6eb28a7cb374.jpg",
+      "name": "PT Infokes Indonesia",
+      "sector": "Jasa Informasi",
+      "slug": "pt-infokes-indonesia",
+      "id": "65e959eb33c6a30012e4e1a1",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-11-04T09:09:25.388Z",
+    "updatedAt": "2026-11-09T04:22:01.829Z",
+    "updatedAtByEmployer": "2026-11-04T09:25:49.896Z",
+    "latestUpdatedAt": "2026-11-04T09:09:25.383Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T03:32:46.623Z"
+  },
+  {
+    "id": "6aeaf96ba4b0c8001355c008",
+    "slug": "php-developer-8",
+    "role": "PHP Developer",
+    "stats": {
+      "viewCount": 106,
+      "nonCuratedCount": 348,
+      "applicantCount": 365
+    },
+    "employmentTypes": [
+      "contract"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-11-04T09:22:51.833Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "lastEducations": [
+        5,
+        6,
+        7
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "62c562b9e8f1ff0012999d79",
+        "6226f6692d9a642279775a80"
+      ],
+      "gender": "No Preference",
+      "age": {
+        "restriction": false,
+        "min": null,
+        "max": null
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 156,
+      "name": "Jakarta Barat"
+    },
+    "companyId": "6509572df4f49c001259751a",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/698c1daa683cf90013329cd4/JobPortalCompanyLogo/86c84fa5-7ad0-448f-a434-db52a56980ac.jpg",
+      "name": "PT Metrodata Electronics Tbk",
+      "sector": "Information Tecnology",
+      "slug": "pt-metrodata-electronics-tbk",
+      "id": "6509572df4f49c001259751a",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-11-04T09:22:51.847Z",
+    "updatedAt": "2026-11-09T04:54:57.085Z",
+    "updatedAtByEmployer": "2026-11-05T03:35:38.892Z",
+    "latestUpdatedAt": "2026-11-04T09:22:51.839Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 5,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T04:16:29.735Z"
+  },
+  {
+    "id": "6aeaf0706153990011b8ed46",
+    "slug": "senior-software-automation-quality-assurance",
+    "role": "Senior Software Automation Quality Assurance",
+    "stats": {
+      "viewCount": 63,
+      "nonCuratedCount": 24,
+      "applicantCount": 26
+    },
+    "employmentTypes": [
+      "fullTime"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-11-04T08:44:32.147Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "minimumGpa": null,
+      "major": null,
+      "gender": "No Preference",
+      "skillIds": [
+        "6520ba3af24c2600122caa7a",
+        "656ab9f2ed58ee001225fb01",
+        "64e9a22a8afc040012ea9520",
+        "630dfd0251c6b2001373e213",
+        "6835d9eb8709246917fb8a4a"
+      ],
+      "university": null,
+      "lastEducations": [
+        6
+      ],
+      "age": {
+        "min": null,
+        "max": null,
+        "restriction": false
+      }
+    },
+    "country": {
+      "name": "Indonesia",
+      "id": 102
+    },
+    "city": {
+      "name": "Bandung",
+      "id": 179
+    },
+    "companyId": "65e959eb33c6a30012e4e1a1",
+    "categoryId": null,
+    "company": {
+      "name": "PT Infokes Indonesia",
+      "id": "65e959eb33c6a30012e4e1a1",
+      "sector": "Jasa Informasi",
+      "logoUrl": "https://cdn.sejutacita.id/65e9595bf584a30013c8dd59/JobPortalCompanyLogo/f939c096-6d93-4c70-9ea4-6eb28a7cb374.jpg",
+      "slug": "pt-infokes-indonesia",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-11-04T08:44:32.163Z",
+    "updatedAt": "2026-11-09T02:19:54.370Z",
+    "updatedAtByEmployer": "2026-11-04T08:44:32.140Z",
+    "latestUpdatedAt": "2026-11-04T08:44:32.154Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T03:32:46.623Z"
+  },
+  {
+    "id": "6ae9a60e615399001199d455",
+    "slug": "junior-technical-support-l1-2",
+    "role": "Junior Technical Support (L1)",
+    "stats": {
+      "viewCount": 319,
+      "nonCuratedCount": 171,
+      "applicantCount": 178
+    },
+    "employmentTypes": [
+      "fullTime"
+    ],
+    "workplaceType": "hybrid",
+    "publishedAt": "2026-11-03T09:14:54.359Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "lastEducations": [
+        5
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "6582ab960270ea0013fc2931",
+        "6949128a17ccfbb24fa88725",
+        "6226f6692d9a642279775a80"
+      ],
+      "gender": "No Preference",
+      "age": {
+        "restriction": false,
+        "min": null,
+        "max": null
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 272,
+      "name": "Tangerang"
+    },
+    "companyId": "628fba3da39fae001238eaf7",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/628fb7426587250014340805/Others/a32d2a25-7e73-4658-99bd-776a7c41a16f.png",
+      "name": "SIRCLO",
+      "sector": "Technology Services",
+      "slug": "sirclo",
+      "id": "628fba3da39fae001238eaf7",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-11-03T09:14:54.403Z",
+    "updatedAt": "2026-11-09T04:49:57.420Z",
+    "updatedAtByEmployer": "2026-11-04T03:47:20.238Z",
+    "latestUpdatedAt": "2026-11-03T09:14:54.375Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T04:59:08.231Z"
+  },
+  {
+    "id": "6ae942d9c132cb0012b6c870",
+    "slug": "qa-engineer-juniormiddle",
+    "role": "QA Engineer (Junior/Middle)",
+    "stats": {
+      "viewCount": 206,
+      "nonCuratedCount": 0,
+      "applicantCount": 406
+    },
+    "employmentTypes": [
+      "fullTime"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-11-03T02:11:37.145Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": {
+      "start": 7000000,
+      "end": 10000000
+    },
+    "candidatePreference": {
+      "lastEducations": [
+        0,
+        5,
+        6
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "63bbb8466e22b10013c6c01e"
+      ],
+      "gender": "Female",
+      "age": {
+        "restriction": false,
+        "min": null,
+        "max": null
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 273,
+      "name": "Tangerang Selatan"
+    },
+    "companyId": "6699cbe523611900123e2a3f",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/6699cb40c4368e0013623062/JobPortalCompanyLogo/e1b497bb-1c44-48f3-95b2-628667a3cc97.PNG",
+      "name": "Dexa Group",
+      "sector": "Pharmaceutical",
+      "slug": "dexa-group",
+      "id": "6699cbe523611900123e2a3f",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-11-03T02:11:37.164Z",
+    "updatedAt": "2026-11-09T04:59:30.190Z",
+    "updatedAtByEmployer": "2026-11-09T04:04:49.016Z",
+    "latestUpdatedAt": "2026-11-03T02:11:37.156Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T03:53:29.939Z"
+  },
+  {
+    "id": "6ae8525885fd9e001215b10d",
+    "slug": "it-support-engineer-4",
+    "role": "IT Support Engineer (Shifting)",
+    "stats": {
+      "viewCount": 359,
+      "nonCuratedCount": 235,
+      "applicantCount": 237
+    },
+    "employmentTypes": [
+      "fullTime"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-11-02T09:05:28.227Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "lastEducations": [
+        6
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "64d0ff65bbfd7b0011abfe9f",
+        "634be06ba0afa50013e11bc4",
+        "64744cd0949eec0012816452",
+        "681b57488709246917e697f8",
+        "6752c6211801e8001258deee"
+      ],
+      "gender": "No Preference",
+      "age": {
+        "restriction": false,
+        "min": null,
+        "max": null
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 158,
+      "name": "Jakarta Selatan"
+    },
+    "companyId": "66713dc468c7580012ea0175",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/66713c6d6eca6a0013544299/JobPortalCompanyLogo/3a4782e8-facb-44fe-b929-9792c19eeec7.png",
+      "name": "PT Lawencon Internasional",
+      "sector": "IT Consultant",
+      "slug": "pt-lawencon-internasional",
+      "id": "66713dc468c7580012ea0175",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-11-02T09:05:28.248Z",
+    "updatedAt": "2026-11-09T04:46:00.648Z",
+    "updatedAtByEmployer": "2026-11-02T09:11:28.814Z",
+    "latestUpdatedAt": "2026-11-02T09:05:28.234Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T05:00:07.974Z"
+  },
+  {
+    "id": "6ae80a18c132cb0012997eab",
+    "slug": "oracle-functional-consultant-5",
+    "role": "Oracle Functional Consultant",
+    "stats": {
+      "viewCount": 34,
+      "nonCuratedCount": 22,
+      "applicantCount": 27
+    },
+    "employmentTypes": [
+      "fullTime"
+    ],
+    "workplaceType": "hybrid",
+    "publishedAt": "2026-11-02T03:57:12.355Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "minimumGpa": null,
+      "major": null,
+      "gender": "No Preference",
+      "skillIds": [
+        "6328110382f3c80012fdabfa"
+      ],
+      "university": null,
+      "lastEducations": [
+        6
+      ],
+      "age": {
+        "min": null,
+        "max": null,
+        "restriction": false
+      }
+    },
+    "country": {
+      "name": "Indonesia",
+      "id": 102
+    },
+    "city": {
+      "name": "Tangerang Selatan",
+      "id": 273
+    },
+    "companyId": "628fba3da39fae001238eaf7",
+    "categoryId": null,
+    "company": {
+      "name": "SIRCLO",
+      "id": "628fba3da39fae001238eaf7",
+      "sector": "Technology Services",
+      "logoUrl": "https://cdn.sejutacita.id/628fb7426587250014340805/Others/a32d2a25-7e73-4658-99bd-776a7c41a16f.png",
+      "slug": "sirclo",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-11-02T03:57:12.374Z",
+    "updatedAt": "2026-11-09T03:15:28.521Z",
+    "updatedAtByEmployer": "2026-11-09T02:56:33.908Z",
+    "latestUpdatedAt": "2026-11-02T03:57:12.367Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T04:40:57.818Z"
+  },
+  {
+    "id": "6ae4170b23d8da0012223a39",
+    "slug": "service-desk-engineer",
+    "role": "Service Desk Engineer",
+    "stats": {
+      "viewCount": 63,
+      "nonCuratedCount": 118,
+      "applicantCount": 123
+    },
+    "employmentTypes": [
+      "contract"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-10-30T04:03:23.638Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "lastEducations": [
+        5
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "6ae416c0ed519d0013224ac4",
+        "6ae416d01cc5a00011bece8e",
+        "6ae416e2cb323400138e7163",
+        "6459a83e51c6190012c0cdf9",
+        "6385d3a09b689e0012015c5b"
+      ],
+      "gender": "No Preference",
+      "age": {
+        "restriction": false,
+        "min": null,
+        "max": null
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 49181,
+      "name": "Indonesia"
+    },
+    "companyId": "637b3b813424fc0012347836",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/637b3a5568e6b200152bf576/JobPortalCompanyLogo/425439be-07b5-4702-9231-7f76a0947696.png",
+      "name": "Xapiens Teknologi Indonesia",
+      "sector": "ICT Services",
+      "slug": "xapiens-teknologi-indonesia",
+      "id": "637b3b813424fc0012347836",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-10-30T04:03:23.680Z",
+    "updatedAt": "2026-11-09T03:53:21.756Z",
+    "updatedAtByEmployer": "2026-10-30T04:03:23.638Z",
+    "latestUpdatedAt": "2026-10-30T04:03:23.660Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-04T22:04:34.558Z"
+  },
+  {
+    "id": "6ae2f7feed519d00131138af",
+    "slug": "devsecops-sr-specialist",
+    "role": "DevSecOps Sr. Specialist",
+    "stats": {
+      "viewCount": 180,
+      "nonCuratedCount": 35,
+      "applicantCount": 45
+    },
+    "employmentTypes": [
+      "fullTime"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-10-29T07:38:38.658Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "lastEducations": [
+        6,
+        5
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "628b9740a39fae001237e1d1",
+        "62914d20126a9e0013ba3405",
+        "62ba800be4bc450012a7d46e",
+        "67f912eb203f07b253fd9212",
+        "62ec7cef9f86fe00129a4aea",
+        "652d05b1b369ad00136b7617",
+        "634f9a728b53210012fe3ba8",
+        "62a326e162a37400158df2fa"
+      ],
+      "gender": "No Preference",
+      "age": {
+        "restriction": false,
+        "min": null,
+        "max": null
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 49180,
+      "name": "Jakarta"
+    },
+    "companyId": "64e34f48abcfb800126627a3",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/662a245e387f6c0013a7280a/JobPortalCompanyLogo/807900de-87f5-4a3d-b300-585d1a81065d.png",
+      "name": "Arya Noble",
+      "sector": "Personal Care and Cosmetics Manufacturing",
+      "slug": "arya-noble",
+      "id": "64e34f48abcfb800126627a3",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-10-29T07:38:38.685Z",
+    "updatedAt": "2026-11-09T04:10:17.428Z",
+    "updatedAtByEmployer": "2026-11-06T03:27:26.590Z",
+    "latestUpdatedAt": "2026-10-29T07:38:38.675Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T04:25:28.685Z"
+  },
+  {
+    "id": "6ae2f4fc23d8da001210bfaf",
+    "slug": "software-engineer-java-t24",
+    "role": "Software Engineer (Java, T24)",
+    "stats": {
+      "viewCount": 306,
+      "nonCuratedCount": 48,
+      "applicantCount": 50
+    },
+    "employmentTypes": [
+      "fullTime"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-10-29T07:25:48.838Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "lastEducations": [
+        6
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "6448d0d8f96cbe0012f46424",
+        "64f699a28879c60012d1bbe4",
+        "636c8b0c8fb785001310bfae",
+        "67f8f76c203f07b253fd919f",
+        "63abfff6f52175001377407f",
+        "63abfffa9859f50012d0205b",
+        "63fea46893bd760013149250"
+      ],
+      "gender": "No Preference",
+      "age": {
+        "restriction": false,
+        "min": null,
+        "max": null
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 158,
+      "name": "Jakarta Selatan"
+    },
+    "companyId": "66713dc468c7580012ea0175",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/66713c6d6eca6a0013544299/JobPortalCompanyLogo/3a4782e8-facb-44fe-b929-9792c19eeec7.png",
+      "name": "PT Lawencon Internasional",
+      "sector": "IT Consultant",
+      "slug": "pt-lawencon-internasional",
+      "id": "66713dc468c7580012ea0175",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-10-29T07:25:48.868Z",
+    "updatedAt": "2026-11-09T04:44:24.829Z",
+    "updatedAtByEmployer": "2026-10-30T03:25:17.303Z",
+    "latestUpdatedAt": "2026-10-29T07:25:48.854Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T05:00:07.974Z"
+  },
+  {
+    "id": "6ae2f2201e86df0013dbe91c",
+    "slug": "net-developer-18",
+    "role": ".NET Developer",
+    "stats": {
+      "viewCount": 284,
+      "nonCuratedCount": 31,
+      "applicantCount": 35
+    },
+    "employmentTypes": [
+      "fullTime"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-10-29T07:13:36.375Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "minimumGpa": null,
+      "major": null,
+      "gender": "No Preference",
+      "skillIds": [
+        "684265618709246917093aac",
+        "635b73a2ecfba700126167bb",
+        "62a01cda1bf51600123ae815",
+        "6433f2ef35205500137ef98e",
+        "6226f6692d9a642279775ac8"
+      ],
+      "university": null,
+      "lastEducations": [
+        6,
+        7
+      ],
+      "age": {
+        "min": null,
+        "max": null,
+        "restriction": false
+      }
+    },
+    "country": {
+      "name": "Indonesia",
+      "id": 102
+    },
+    "city": {
+      "name": "Jakarta Selatan",
+      "id": 158
+    },
+    "companyId": "66713dc468c7580012ea0175",
+    "categoryId": null,
+    "company": {
+      "name": "PT Lawencon Internasional",
+      "id": "66713dc468c7580012ea0175",
+      "sector": "IT Consultant",
+      "logoUrl": "https://cdn.sejutacita.id/66713c6d6eca6a0013544299/JobPortalCompanyLogo/3a4782e8-facb-44fe-b929-9792c19eeec7.png",
+      "slug": "pt-lawencon-internasional",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-10-29T07:13:36.410Z",
+    "updatedAt": "2026-11-09T02:49:48.371Z",
+    "updatedAtByEmployer": "2026-11-03T10:47:45.750Z",
+    "latestUpdatedAt": "2026-10-29T07:13:36.393Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T04:55:59.724Z"
+  },
+  {
+    "id": "6ae06a66ebef580012cf045b",
+    "slug": "quality-assurance-engineer-10",
+    "role": "Quality Assurance Engineer",
+    "stats": {
+      "viewCount": 348,
+      "nonCuratedCount": 119,
+      "applicantCount": 279
+    },
+    "employmentTypes": [
+      "contract"
+    ],
+    "workplaceType": "hybrid",
+    "publishedAt": "2026-10-27T09:16:23.628Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "lastEducations": [
+        5,
+        6
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "62d633e6978bf00012c8e2d7",
+        "665048c2ab929100125e9f18",
+        "67f880164c57c9d68cd0af2f"
+      ],
+      "gender": "No Preference",
+      "age": {
+        "restriction": false,
+        "min": null,
+        "max": null
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 269,
+      "name": "Tangerang Regency"
+    },
+    "companyId": "68f225b9429da7001242c92d",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/68f223cfecb6c1001418b829/JobPortalCompanyLogo/42906188-baf2-4593-bac6-ec90d542139b.png",
+      "name": "PT Esensi Solusi Buana (ESB)",
+      "sector": "IT Services and Consulting",
+      "slug": "esb",
+      "id": "68f225b9429da7001242c92d",
+      "verified": false
+    },
+    "deletedAt": null,
+    "createdAt": "2026-10-27T09:09:58.847Z",
+    "updatedAt": "2026-11-09T04:59:30.202Z",
+    "updatedAtByEmployer": "2026-11-05T02:37:18.454Z",
+    "latestUpdatedAt": "2026-11-05T02:20:44.515Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T04:20:02.824Z"
+  },
+  {
+    "id": "6ae01a9d46dc0f0012a0fcf7",
+    "slug": "ai-infrastructure-platform-engineer",
+    "role": "AI Infrastructure / Platform Engineer",
+    "stats": {
+      "viewCount": 84,
+      "nonCuratedCount": 63,
+      "applicantCount": 68
+    },
+    "employmentTypes": [
+      "fullTime"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-10-27T03:29:33.993Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "minimumGpa": null,
+      "major": null,
+      "gender": "No Preference",
+      "skillIds": [
+        "65c6f79deb8d21001245ab3c",
+        "650bcc36f4f49c00127b781a",
+        "635650ead0806f0012e1dcbc",
+        "6298645962a37400158992c9",
+        "63496a3c4ad7ed00145f9b4b",
+        "628c88dca39fae0012381fda"
+      ],
+      "university": null,
+      "lastEducations": [
+        5
+      ],
+      "age": {
+        "min": null,
+        "max": null,
+        "restriction": false
+      }
+    },
+    "country": {
+      "name": "Indonesia",
+      "id": 102
+    },
+    "city": {
+      "name": "Jakarta Pusat",
+      "id": 157
+    },
+    "companyId": "642d07dd4fb3eb001260f9d2",
+    "categoryId": null,
+    "company": {
+      "name": "SG-EDTS",
+      "id": "642d07dd4fb3eb001260f9d2",
+      "sector": "IT Services And IT Consulting",
+      "logoUrl": "https://cdn.sejutacita.id/6a6718d9254f340013c3621e/JobPortalCompanyLogo/2808c6e1-e981-4105-8c8d-87a3c61bc7ee.jpg",
+      "slug": "sg-edts",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-10-27T03:29:34.031Z",
+    "updatedAt": "2026-11-09T01:23:15.953Z",
+    "updatedAtByEmployer": "2026-10-28T04:51:15.793Z",
+    "latestUpdatedAt": "2026-10-27T03:29:34.014Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T04:24:25.521Z"
+  },
+  {
+    "id": "6adf00b34e32da0012dd6560",
+    "slug": "it-database-administrator-dba-shifting",
+    "role": "IT Database Administrator (DBA) (Shifting)",
+    "stats": {
+      "viewCount": 241,
+      "nonCuratedCount": 131,
+      "applicantCount": 135
+    },
+    "employmentTypes": [
+      "fullTime"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-10-26T07:26:43.356Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "lastEducations": [
+        6,
+        5
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "680c435f8da0ac651f12fac7",
+        "68161468c8dcd4c9c4ae9bef",
+        "63a255b6b7d52f00138461ac",
+        "6808a7afdf0e263abf7c932d",
+        "68197ec949590c96a9627bba",
+        "63fea46893bd760013149250",
+        "62835e0c68a8360013f0446b",
+        "62d7cc3c2aa8890012bb064d",
+        "637a0a8025d6f80012b0385a"
+      ],
+      "gender": "No Preference",
+      "age": {
+        "restriction": false,
+        "min": null,
+        "max": null
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 158,
+      "name": "Jakarta Selatan"
+    },
+    "companyId": "66713dc468c7580012ea0175",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/66713c6d6eca6a0013544299/JobPortalCompanyLogo/3a4782e8-facb-44fe-b929-9792c19eeec7.png",
+      "name": "PT Lawencon Internasional",
+      "sector": "IT Consultant",
+      "slug": "pt-lawencon-internasional",
+      "id": "66713dc468c7580012ea0175",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-10-26T07:26:43.375Z",
+    "updatedAt": "2026-11-09T03:42:33.399Z",
+    "updatedAtByEmployer": "2026-10-26T07:26:43.356Z",
+    "latestUpdatedAt": "2026-10-26T07:26:43.366Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T05:00:07.974Z"
+  },
+  {
+    "id": "6adeff234e32da0012dd226a",
+    "slug": "application-operations-support-engineer-level",
+    "role": "Application Operations Support – Engineer Level 1 (Shifting)",
+    "stats": {
+      "viewCount": 392,
+      "nonCuratedCount": 116,
+      "applicantCount": 120
+    },
+    "employmentTypes": [
+      "fullTime"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-10-26T07:20:03.789Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "lastEducations": [
+        5
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "68144302c8dcd4c9c4ad92fc",
+        "681b8f20fb95b8ee7c5dbccf",
+        "63070027481d3d0012535078",
+        "628cb9f79f37b90012d163f9",
+        "63b3c59bbca9cb0012b485f0",
+        "68145cbcc8dcd4c9c4ad949b",
+        "6809daeb5e99acf68307f021",
+        "681b8799fb95b8ee7c5db89b"
+      ],
+      "gender": "No Preference",
+      "age": {
+        "restriction": false,
+        "min": null,
+        "max": null
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 158,
+      "name": "Jakarta Selatan"
+    },
+    "companyId": "66713dc468c7580012ea0175",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/66713c6d6eca6a0013544299/JobPortalCompanyLogo/3a4782e8-facb-44fe-b929-9792c19eeec7.png",
+      "name": "PT Lawencon Internasional",
+      "sector": "IT Consultant",
+      "slug": "pt-lawencon-internasional",
+      "id": "66713dc468c7580012ea0175",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-10-26T07:20:03.831Z",
+    "updatedAt": "2026-11-09T04:04:24.281Z",
+    "updatedAtByEmployer": "2026-11-02T02:21:20.664Z",
+    "latestUpdatedAt": "2026-10-26T07:20:03.804Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T05:00:07.974Z"
+  },
+  {
+    "id": "6adefe327d45ed0012867d59",
+    "slug": "application-monitoring-support-operator-shifting",
+    "role": "Application Monitoring Support – Operator (Shifting)",
+    "stats": {
+      "viewCount": 372,
+      "nonCuratedCount": 136,
+      "applicantCount": 172
+    },
+    "employmentTypes": [
+      "fullTime"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-10-26T07:16:02.653Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "lastEducations": [
+        5
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "68144302c8dcd4c9c4ad92fc",
+        "628cba2c9f37b90012d16410",
+        "628cb9f79f37b90012d163f9"
+      ],
+      "gender": "No Preference",
+      "age": {
+        "restriction": false,
+        "min": null,
+        "max": null
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 158,
+      "name": "Jakarta Selatan"
+    },
+    "companyId": "66713dc468c7580012ea0175",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/66713c6d6eca6a0013544299/JobPortalCompanyLogo/3a4782e8-facb-44fe-b929-9792c19eeec7.png",
+      "name": "PT Lawencon Internasional",
+      "sector": "IT Consultant",
+      "slug": "pt-lawencon-internasional",
+      "id": "66713dc468c7580012ea0175",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-10-26T07:16:02.674Z",
+    "updatedAt": "2026-11-09T04:09:10.550Z",
+    "updatedAtByEmployer": "2026-11-02T11:02:54.617Z",
+    "latestUpdatedAt": "2026-10-26T07:16:02.661Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T05:00:07.974Z"
+  },
+  {
+    "id": "6adefd7b4e32da0012dcdb24",
+    "slug": "it-technical-writer-2",
+    "role": "IT Technical Writer",
+    "stats": {
+      "viewCount": 191,
+      "nonCuratedCount": 50,
+      "applicantCount": 210
+    },
+    "employmentTypes": [
+      "fullTime"
+    ],
+    "workplaceType": "hybrid",
+    "publishedAt": "2026-10-26T07:12:59.434Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": {
+      "start": 5800000,
+      "end": 6500000
+    },
+    "candidatePreference": {
+      "lastEducations": [
+        5
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "681b92458709246917e6bfea",
+        "681b4915fb95b8ee7c5d8038",
+        "63cd0f49f2dce800137b4fc9",
+        "63cd0f441111b200139e3e7f",
+        "68005782fc02380a0cd10797"
+      ],
+      "gender": "No Preference",
+      "age": {
+        "restriction": false,
+        "min": null,
+        "max": null
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 158,
+      "name": "Jakarta Selatan"
+    },
+    "companyId": "66713dc468c7580012ea0175",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/66713c6d6eca6a0013544299/JobPortalCompanyLogo/3a4782e8-facb-44fe-b929-9792c19eeec7.png",
+      "name": "PT Lawencon Internasional",
+      "sector": "IT Consultant",
+      "slug": "pt-lawencon-internasional",
+      "id": "66713dc468c7580012ea0175",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-10-26T07:12:59.468Z",
+    "updatedAt": "2026-11-09T04:44:56.634Z",
+    "updatedAtByEmployer": "2026-11-04T04:22:02.041Z",
+    "latestUpdatedAt": "2026-10-26T07:12:59.450Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T05:00:07.974Z"
+  },
+  {
+    "id": "6adada7c8d7d820012b04b1e",
+    "slug": "senior-security-engineer-appsec-devsecops",
+    "role": "Senior Security Engineer (AppSec / DevSecOps)",
+    "stats": {
+      "viewCount": 175,
+      "nonCuratedCount": 35,
+      "applicantCount": 38
+    },
+    "employmentTypes": [
+      "fullTime"
+    ],
+    "workplaceType": "hybrid",
+    "publishedAt": "2026-10-23T03:54:36.036Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": {
+      "start": 15000000,
+      "end": 22000000
+    },
+    "candidatePreference": {
+      "lastEducations": [
+        6
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "6303ca8217decd0012b73aee",
+        "637729c993976d001370ea20",
+        "62deb98e2aa8890012bf2bd7",
+        "68183d869795f2f19d847c85"
+      ],
+      "gender": "No Preference",
+      "age": {
+        "restriction": false,
+        "min": null,
+        "max": null
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 158,
+      "name": "Jakarta Selatan"
+    },
+    "companyId": "66eb8786e88733001269d87a",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/66eb86f73d00be0013099fd8/JobPortalCompanyLogo/dcfc2ea5-a9ea-4763-8bdf-85c75dfd9400.jpeg",
+      "name": "Jubelio",
+      "sector": "Technology (Software Development)",
+      "slug": "jubelio",
+      "id": "66eb8786e88733001269d87a",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-10-23T03:54:36.043Z",
+    "updatedAt": "2026-11-09T03:01:48.796Z",
+    "updatedAtByEmployer": "2026-10-23T03:54:36.036Z",
+    "latestUpdatedAt": "2026-10-23T03:54:36.039Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-04T09:48:42.735Z"
+  },
+  {
+    "id": "6ad9d6a94bae110012d8ed5e",
+    "slug": "fullstack-developer-6-months-contract",
+    "role": "Fullstack Developer (6 Months Contract)",
+    "stats": {
+      "viewCount": 303,
+      "nonCuratedCount": 199,
+      "applicantCount": 233
+    },
+    "employmentTypes": [
+      "contract"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-10-22T09:26:49.444Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "lastEducations": [
+        6,
+        5
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "6226f6692d9a642279775aa7",
+        "67f0bb989167f1e4c4f8aae6",
+        "6728ae906db08f0012638e0d",
+        "64095a6ffa95ba00134474f7"
+      ],
+      "gender": "No Preference",
+      "age": {
+        "restriction": false,
+        "min": null,
+        "max": null
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 157,
+      "name": "Jakarta Pusat"
+    },
+    "companyId": "647efac342a2b200124415a0",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/0d8d1f68-b858-45bb-84f8-f885b891ef63.png",
+      "name": "Akulaku Group",
+      "sector": "Financial Services",
+      "slug": "akulaku-group",
+      "id": "647efac342a2b200124415a0",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-10-22T09:26:01.652Z",
+    "updatedAt": "2026-11-09T04:44:22.235Z",
+    "updatedAtByEmployer": "2026-11-03T10:28:58.594Z",
+    "latestUpdatedAt": "2026-10-22T09:26:01.631Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 5,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T04:30:19.020Z"
+  },
+  {
+    "id": "6ad8368ba88b9e00120e41cd",
+    "slug": "mis-staff",
+    "role": "MIS Staff",
+    "stats": {
+      "viewCount": 276,
+      "nonCuratedCount": 511,
+      "applicantCount": 542
+    },
+    "employmentTypes": [
+      "fullTime"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-10-21T03:50:35.834Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "lastEducations": [
+        0,
+        5
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "67ef94df8ea92db836893044",
+        "67f1871c9167f1e4c4f8ac75",
+        "681cb9448709246917e7f457",
+        "681b25b6fb95b8ee7c5d561a"
+      ],
+      "gender": "No Preference",
+      "age": {
+        "restriction": false,
+        "min": null,
+        "max": null
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 158,
+      "name": "Jakarta Selatan"
+    },
+    "companyId": "650016e46bb7e40013ac59f2",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/65001436f62e160013a86949/JobPortalCompanyLogo/48a98954-5e8d-436f-b68b-d6c778c8e6a9.jpeg",
+      "name": "PT Akasha Wira International, Tbk",
+      "sector": "Manufacturing (FMCG)",
+      "slug": "pt-akasha-wira-international-tbk",
+      "id": "650016e46bb7e40013ac59f2",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-10-21T03:50:35.848Z",
+    "updatedAt": "2026-11-09T04:59:21.217Z",
+    "updatedAtByEmployer": "2026-11-09T02:16:14.584Z",
+    "latestUpdatedAt": "2026-10-21T03:50:35.840Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 5,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T05:00:08.787Z"
+  },
+  {
+    "id": "6ad5e5f3d3f35b0012a54db7",
+    "slug": "system-administrator-21",
+    "role": "System Administrator",
+    "stats": {
+      "viewCount": 297,
+      "nonCuratedCount": 359,
+      "applicantCount": 364
+    },
+    "employmentTypes": [
+      "fullTime"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-10-19T09:42:11.793Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "lastEducations": [
+        5,
+        0
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "62d913c8707b920013f5d6ab",
+        "6350f6cf95c5b50013f433c2"
+      ],
+      "gender": "No Preference",
+      "age": {
+        "restriction": false,
+        "min": null,
+        "max": null
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 156,
+      "name": "Jakarta Barat"
+    },
+    "companyId": "66bc147e2b215400120ef657",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/66bc13c48fca2d0013f5b647/JobPortalCompanyLogo/da28d3e7-261e-43f8-b8cd-6bcf7427f0ff.jpeg",
+      "name": "BINUS Group",
+      "sector": "Education Administration Programs",
+      "slug": "binus-group",
+      "id": "66bc147e2b215400120ef657",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-10-19T09:42:11.825Z",
+    "updatedAt": "2026-11-09T04:44:40.521Z",
+    "updatedAtByEmployer": "2026-10-19T09:42:11.793Z",
+    "latestUpdatedAt": "2026-10-19T09:42:11.813Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T04:56:22.390Z"
+  },
+  {
+    "id": "6ad5cf861c872500121611bd",
+    "slug": "ict-support-officer-penempatan-surabaya-1",
+    "role": "ICT Support Officer (Penempatan Surabaya)",
+    "stats": {
+      "viewCount": 1126,
+      "nonCuratedCount": 341,
+      "applicantCount": 349
+    },
+    "employmentTypes": [
+      "fullTime"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-10-19T08:06:30.815Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "lastEducations": [
+        5
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "680bb025b2249a51ef7e010c",
+        "655c5f6aedebac00121c46bf",
+        "65d33eb44e98400012e157db"
+      ],
+      "gender": "Male",
+      "age": {
+        "restriction": true,
+        "min": 22,
+        "max": 35
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 265,
+      "name": "Surabaya"
+    },
+    "companyId": "665eba8d8a3b91001284d12a",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/665eb9d907cff6001352856c/JobPortalCompanyLogo/05db3155-6f9d-4030-8cd0-b86a8bc5b94e.jpg",
+      "name": "Universitas Ciputra",
+      "sector": "Perguruan Tinggi",
+      "slug": "universitas-ciputra-surabaya",
+      "id": "665eba8d8a3b91001284d12a",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-10-19T08:06:30.829Z",
+    "updatedAt": "2026-11-09T04:46:02.180Z",
+    "updatedAtByEmployer": "2026-10-19T08:06:30.815Z",
+    "latestUpdatedAt": "2026-10-19T08:06:30.821Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 6,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T04:57:00.031Z"
+  },
+  {
+    "id": "6ad1e28da0c686001260e504",
+    "slug": "automation-engineer-staff",
+    "role": "Automation Engineer Staff",
+    "stats": {
+      "viewCount": 131,
+      "nonCuratedCount": 409,
+      "applicantCount": 414
+    },
+    "employmentTypes": [
+      "fullTime"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-10-16T08:38:37.490Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "lastEducations": [
+        5,
+        6,
+        7
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "62b69c1be8f1ff001295d24d",
+        "63bd487341391e0012348623",
+        "672ef15a42271d001236619f",
+        "6226f6692d9a642279775ad0",
+        "634413dd28c4ce0013661ccb",
+        "62942b4b1bf5160012372405"
+      ],
+      "gender": "Male",
+      "age": {
+        "restriction": true,
+        "min": 22,
+        "max": 30
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 251,
+      "name": "Sidoarjo Regency"
+    },
+    "companyId": "62c7eeaa38af2c0014ae9598",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/60594de91882d200135bd833/Others/9faf1c92-6647-4330-9815-68ea7a0f69f1.jpg",
+      "name": "PT Avia Avian Tbk. (Avian Brands)",
+      "sector": "Building Materials",
+      "slug": "pt-avia-avian-tbk-avian-brands",
+      "id": "62c7eeaa38af2c0014ae9598",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-10-16T08:38:37.502Z",
+    "updatedAt": "2026-11-09T04:14:04.677Z",
+    "updatedAtByEmployer": "2026-10-16T08:38:37.490Z",
+    "latestUpdatedAt": "2026-10-16T08:38:37.495Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-03T11:34:20.187Z"
+  },
+  {
+    "id": "6ad0a38d879b500012fa234e",
+    "slug": "software-development-engineer-in-test-10",
+    "role": "Software Development Engineer in Test",
+    "stats": {
+      "viewCount": 265,
+      "nonCuratedCount": 102,
+      "applicantCount": 217
+    },
+    "employmentTypes": [
+      "contract"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-10-15T09:57:33.396Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "lastEducations": [
+        5,
+        6,
+        7
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "680cb8e5b2249a51ef7e9323",
+        "64095a6ffa95ba00134474f7",
+        "62d633e6978bf00012c8e2d7"
+      ],
+      "gender": "No Preference",
+      "age": {
+        "restriction": false,
+        "min": null,
+        "max": null
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 157,
+      "name": "Jakarta Pusat"
+    },
+    "companyId": "628dd049a39fae0012387bff",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/628dcf22be95ec00134cd50e/JobPortalCompanyLogo/c26bf05d-5af6-4d68-8e92-880eea138b44.png",
+      "name": "PT. Inovasi Anak Indonesia - PARKEE",
+      "sector": "technology services",
+      "slug": "pt-inovasi-anak-indonesia-parkee",
+      "id": "628dd049a39fae0012387bff",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-10-15T09:57:33.420Z",
+    "updatedAt": "2026-11-09T04:44:58.088Z",
+    "updatedAtByEmployer": "2026-10-26T06:19:32.189Z",
+    "latestUpdatedAt": "2026-10-15T09:57:33.411Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 8,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T04:12:45.941Z"
+  },
+  {
+    "id": "6ad0a1a5021f0f0012f731a8",
+    "slug": "software-development-engineer-in-test-9",
+    "role": "Software Development Engineer in Test (SDET)",
+    "stats": {
+      "viewCount": 279,
+      "nonCuratedCount": 100,
+      "applicantCount": 179
+    },
+    "employmentTypes": [
+      "contract"
+    ],
+    "workplaceType": "onSite",
+    "publishedAt": "2026-10-15T09:49:25.446Z",
+    "status": "active",
+    "salaryType": "paid",
+    "salaryRange": null,
+    "candidatePreference": {
+      "lastEducations": [
+        5,
+        6
+      ],
+      "major": null,
+      "university": null,
+      "minimumGpa": null,
+      "skillIds": [
+        "634cd9394ed08100121bf98e",
+        "67f8f76c203f07b253fd919f",
+        "67f0bb989167f1e4c4f8aae6",
+        "680cb8e5b2249a51ef7e9323"
+      ],
+      "gender": "No Preference",
+      "age": {
+        "restriction": false,
+        "min": null,
+        "max": null
+      }
+    },
+    "country": {
+      "id": 102,
+      "name": "Indonesia"
+    },
+    "city": {
+      "id": 157,
+      "name": "Jakarta Pusat"
+    },
+    "companyId": "628dd049a39fae0012387bff",
+    "categoryId": null,
+    "company": {
+      "logoUrl": "https://cdn.sejutacita.id/628dcf22be95ec00134cd50e/JobPortalCompanyLogo/c26bf05d-5af6-4d68-8e92-880eea138b44.png",
+      "name": "PT. Inovasi Anak Indonesia - PARKEE",
+      "sector": "technology services",
+      "slug": "pt-inovasi-anak-indonesia-parkee",
+      "id": "628dd049a39fae0012387bff",
+      "verified": true
+    },
+    "deletedAt": null,
+    "createdAt": "2026-10-15T09:49:25.454Z",
+    "updatedAt": "2026-11-09T04:44:58.103Z",
+    "updatedAtByEmployer": "2026-10-22T04:03:09.441Z",
+    "latestUpdatedAt": "2026-10-15T09:49:25.450Z",
+    "urgentlyNeeded": false,
+    "boosted": false,
+    "saved": false,
+    "applied": false,
+    "waitListed": false,
+    "applicantPrioritySlots": 7,
+    "higherSalary": null,
+    "eligibleToApply": true,
+    "thereAreStillFewApplicants": false,
+    "lastActivelyHiringAt": "2026-11-09T04:12:45.941Z"
+  }
+]

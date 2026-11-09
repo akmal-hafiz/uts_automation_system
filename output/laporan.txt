@@ -1,0 +1,34 @@
+LAPORAN JOB VACANCY DATA COLLECTOR
+========================================
+Waktu proses           : 2026-11-09T12:13:35+07:00
+Mode                   : online
+Sumber                 : https://dealls.com/loker/posisi/loker-it-and-software-engineering
+Kata kunci             : -
+Lowongan diperiksa     : 30
+Record tersimpan       : 30
+Tidak cocok kata kunci : 0
+Duplikat dilewati      : 0
+Gagal diproses         : 0
+Tanpa skill terbaca    : 9
+
+JUMLAH PER BIDANG
+  Dukungan IT                          8
+  QA dan Pengujian                     6
+  Lainnya                              4
+  Pengembangan Perangkat Lunak         4
+  Infrastruktur dan Operasional IT     3
+  Produk dan Analisis Sistem           2
+  Keamanan Siber                       2
+  Data dan AI                          1
+
+10 KETERAMPILAN PALING SERING DISEBUT
+  Python                               7
+  SQL                                  7
+  Git                                  6
+  MySQL                                6
+  Kubernetes                           5
+  AWS                                  5
+  GCP                                  5
+  Linux                                5
+  JavaScript                           5
+  Java                                 5
